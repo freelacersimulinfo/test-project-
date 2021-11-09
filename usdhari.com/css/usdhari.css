@@ -1,0 +1,116 @@
+.topbar {
+	 height:auto;
+	 width: auto;
+     border: 10px solid #f01111;
+     display: block;
+     text-align: center;
+     margin: -2px;
+     padding: 10px;
+     background-color: #f9ed0b;
+}
+
+ .main .container {
+     height:100%;
+	 width: 100%;
+     text-align: center;
+     margin: -2px;
+     padding: 100%px;
+     background-color: teal;
+	 height: 130\px;;
+}
+.container: hover{
+	 background-color: red;
+	 transition: 5s
+}
+.container ul {
+	 float: right;
+	 height: auto%
+	 ;
+	 padding: auto;
+	 width:auto;
+	 text-align:right;
+	 display: flex;
+	 background-color: teal;
+	 z-index: -3;
+	 list-style: none;
+}
+.container ul li {
+	 list-style: none;
+	 padding: 26px;
+	 width: auto
+	 float: right;
+	 text-decoration: 5;
+	 height: 2%
+}
+.main .center {
+	text-align: center; 
+      background-color: #FFF;
+     text-decoration-color: white;
+      margin: auto;
+	  padding:1px 5px
+}
+.center h1 {
+	 width: auto;
+	 height: auto;
+	 font-size: auto;
+	 font-weight: bolder;
+	 text-align: center;
+	 background-color: red;
+	 border-radius: 25px
+} 
+.center h4 {
+	 text-align: Left;
+	 margin: 10px
+	 height: 30px
+	 height: 30px
+}
+.buttons button {
+	 
+	 width: 20%;
+      height: 50px;
+     padding: 1px;
+     margin: auto;
+	 button-sixe:50px
+	 border-bottom-color: red;
+	 font-weight: bolder;
+	 background-color: red;
+	 border: 5px solid;
+	 cursor: pointer;
+	 border-radius: 25px;
+     transition: 0.5s;
+     
+}
+.buttons button: hover {
+	 background-color: ;
+	 
+}
+#footer-text {
+     padding: 10px;
+     margin: auto;
+     text-align: center;
+     background-color: turquoise;
+     width: auto;
+     font-size: 20px;
+}
+
+
+
+
+
+
+.about .about-h {
+     background-color: red;
+     width: 70px;
+     text-align: center;
+     height: auto;
+     padding: 10px;
+     margin: auto;
+     border-block: 10px;
+     border-radius: 25%;
+     display: flex;
+}
+
+
+.contact h3 {
+	 text-align: left
+	 

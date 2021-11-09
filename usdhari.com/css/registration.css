@@ -1,0 +1,39 @@
+* {
+	  margin: 0;
+	  padding: 0;
+	 
+}
+body {
+    background-image: url (../img/logo.png);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: #d3bbbba1;
+    padding-top: 10px;
+}
+.regform {
+    background-color: aliceblue;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+..main {
+    background-color: #e4baba9e;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+input {
+    background: #e4dfdf;
+    padding: 3px 10px;
+    border-color: red;
+    margin: 10px;
+    border-radius: 1%;
+    border-block-color: #0006ff;
+}.btn {
+    border-radius: 35%;
+    font-weight: bolder;
+    padding: 10px;
+    margin: 0px 5;
+}
